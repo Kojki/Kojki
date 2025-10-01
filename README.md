@@ -29,6 +29,16 @@ Here are some ideas to get you started:
     <img height="20" src="https://qiita-badge.apiapi.app/s/Kojki/contributions.svg" />
   </a>
   <a href="https://zenn.dev/kojki">
-    <img height="20" src="https://badgen.org/img/zenn/Kojki/articles?style=plastic" />
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kojki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kojki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kojki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kojki&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kojki&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Kojki&theme=gruvbox)
+    <img height="20" src="https://badgen.org/img/zenn/Kojki/articles?styl
+  e=plastic" />
   </a>
 </p>
